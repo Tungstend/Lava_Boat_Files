@@ -1,0 +1,10 @@
+{
+{
+"versionCode":"1",
+"versionName":"1.0.0",
+"versionType":"release",
+"date":"2021.3.4",
+"url":"http://github.com/Tungstend/Lava_Boat_Files/main/updateFiles/runtime/release/lava_runtime_1.0.0.zip",
+"updateLog":"-修复1.7.10NEI等mod\n-修复高版本forge不加载mod"
+}
+}
