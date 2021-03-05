@@ -9,6 +9,12 @@
 "updateAlert":"- 功能尚不完善"
 },
 "latestPrerelease":{
-
+"versionCode":0,
+"versionName":"1.0.0",
+"versionType":"prerelease",
+"date":"2020.3.5",
+"url":"/launcher/release/Lava-Boat-1.0.0.apk",
+"updateLog":"- Lava-Boat重置版，整体优化",
+"updateAlert":"- 功能尚不完善"
 }
 }
