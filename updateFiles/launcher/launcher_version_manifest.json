@@ -1,5 +1,5 @@
 {
-"release":{
+"latestRelease":{
 "versionCode":1,
 "versionName":"1.0.0",
 "versionType":"release",
@@ -8,7 +8,7 @@
 "updateLog":"- Lava-Boat重置版，整体优化",
 "updateAlert":"- 功能尚不完善"
 },
-"prerelease":{
+"latestPrerelease":{
 
 }
 }
