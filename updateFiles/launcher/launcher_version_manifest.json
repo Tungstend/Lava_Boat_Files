@@ -5,7 +5,7 @@
 "versionType":"release",
 "date":"2020.3.5",
 "url":"/launcher/release/Lava-Boat-1.0.0.apk",
-"updateLog":"- Lava-Boat重置版，整体优化",
+"updateLog":"- Lava-Boat重置版，整体优化\n- 启动器内检测更新",
 "updateAlert":"- 功能尚不完善"
 },
 "latestPrerelease":{
