@@ -8,7 +8,7 @@
 "latest":"true",
 "url":"/runtime/release/lava_runtime_1.0.0.zip",
 "updateLog":"-修复1.7.10NEI等mod\n-修复高版本forge不加载mod"
-}，
+},
 "version":{
 "versionCode":1,
 "versionName":"1.0.0",
