@@ -4,7 +4,7 @@
 "versionName":"1.0.1",
 "versionType":"prerelease",
 "date":"2021.3.6",
-"tagRecommend":false,
+"tagRecommend":true,
 "tagLatest":true,
 "url":"/runtime/prerelease/lava_runtime_1.0.1.zip",
 "updateLog":"-支持部分光影\n-部分手机可能出现贴图错误或白屏"
