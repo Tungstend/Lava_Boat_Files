@@ -6,7 +6,7 @@
 "date":"2021.3.6",
 "recommend":false,
 "latest":true,
-"url":"/runtime/release/lava_runtime_1.0.1.zip",
+"url":"/runtime/prerelease/lava_runtime_1.0.1.zip",
 "updateLog":"-支持部分光影\n-部分手机可能出现贴图错误或白屏"
 },
 "1.0.0":{
